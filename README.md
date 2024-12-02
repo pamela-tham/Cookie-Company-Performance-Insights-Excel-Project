@@ -73,7 +73,7 @@ This visualization highlights which products are driving sales volume.
 
 <img src="https://github.com/user-attachments/assets/c26e76a1-5404-4c69-8323-4cdbcc7ffdf7"
      width="1050" 
-     height="430" />
+     height="400" />
 ---
 
 ## 💡 Key Insights
