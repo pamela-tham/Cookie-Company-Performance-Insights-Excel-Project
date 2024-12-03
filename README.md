@@ -72,7 +72,7 @@ This visualization highlights which products are driving sales volume.
 **Insight**: The final dashboard integrates all the visualizations above to provide a comprehensive overview of the company’s performance across different metrics.  
 
 <img src="https://github.com/user-attachments/assets/c26e76a1-5404-4c69-8323-4cdbcc7ffdf7"
-     width="1050" 
+     width="1100" 
      height="400" />
 ---
 
