@@ -1,7 +1,6 @@
 
 
-# 🍪 Delicious Cookies Company Performance Analysis (2019-2020)
-
+# 🍪 Delicious Cookies Company Performance Analysis
 Welcome to the **Delicious Cookies Company Performance Analysis Project**! This project analyses the sales, revenue, and product data of the fictitious **Delicious Cookies** company for the years **2019-2020**. Using **Microsoft Excel**, the data was cleaned, formatted, and  key metrics were calculated to gain insights into the company's performance. The goal of this analysis is to identify trends, assess product preferences, and provide data-driven recommendations to improve operational and marketing strategies. 📊🍪
 
 
@@ -112,6 +111,7 @@ This visualization highlights which products are driving sales volume.
 
 ---
 📝 Conclusion
+
 In conclusion, this analysis of the Delicious Cookies company performance data for 2019-2020 has provided valuable insights into the company’s product performance, revenue distribution, and market dynamics. By leveraging Microsoft Excel and Power Query, we were able to clean and transform the data into meaningful insights that can drive actionable strategies.
 
 Key findings, such as the success of Chocolate Chips in India and the underperformance of certain products in regions like Malaysia, offer clear guidance on how the company can optimize its product offerings, marketing strategies, and pricing to increase profitability across different markets.
