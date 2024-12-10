@@ -1,6 +1,6 @@
 
 
-# 🍪 Delicious Cookies Company Performance Analysis
+# 🍪 Delicious Cookie Company Performance Analysis
 Welcome to the **Delicious Cookies Company Performance Analysis Project**! This project analyses the sales, revenue, and product data of the fictitious **Delicious Cookies** company for the years **2019-2020**. Using **Microsoft Excel**, the data was cleaned, formatted, and  key metrics were calculated to gain insights into the company's performance. The goal of this analysis is to identify trends, assess product preferences, and provide data-driven recommendations to improve operational and marketing strategies. 📊🍪
 
 
