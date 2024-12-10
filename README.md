@@ -123,5 +123,4 @@ Happy analyzing! 🍪📊
 📧 Contact
 Feel free to reach out if you have any questions or suggestions!
 
-📨 Email: your.email@example.com
-🌐 LinkedIn: Your LinkedIn Profile
+🌐 LinkedIn: www.linkedin.com/in/pamela-thamanm-366908324
