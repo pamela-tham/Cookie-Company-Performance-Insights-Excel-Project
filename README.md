@@ -82,7 +82,7 @@ This visualization highlights which products are driving sales volume.
    - **Total revenue**: $1,026,375  
    - **Top product**: Chocolate Chips cookies
 
-2. **Malaysia is the least profitable market**:  
+2. **Philipphines is the least profitable market**:  
    - **Revenue**: $836,667  
    - **Top product**: Snickerdoodle
 
@@ -106,7 +106,7 @@ This visualization highlights which products are driving sales volume.
    - Replicate similar strategies in other regions for improved sales.
 
 3. **Survey Underperforming Markets**:
-   - Survey regions like **Malaysia** to identify obstacles that prevent people from purchasing, such as **taste preferences**, **affordability**, or **lack of awareness**. 
+   - Survey regions like **Philipphines & Malaysia** to identify obstacles that prevent people from purchasing, such as **taste preferences**, **affordability**, or **lack of awareness**. 
    - Adjust product offerings and marketing strategies based on findings.
 
 ---
@@ -114,7 +114,7 @@ This visualization highlights which products are driving sales volume.
 
 In conclusion, this analysis of the Delicious Cookies company performance data for 2019-2020 has provided valuable insights into the company’s product performance, revenue distribution, and market dynamics. By leveraging Microsoft Excel and Power Query, we were able to clean and transform the data into meaningful insights that can drive actionable strategies.
 
-Key findings, such as the success of Chocolate Chips in India and the underperformance of certain products in regions like Malaysia, offer clear guidance on how the company can optimize its product offerings, marketing strategies, and pricing to increase profitability across different markets.
+Key findings, such as the success of Chocolate Chips in India and the underperformance of certain products in regions like Philipines & Malaysia, offer clear guidance on how the company can optimize its product offerings, marketing strategies, and pricing to increase profitability across different markets.
 
 By acting on these insights and refining business operations based on data-driven recommendations, Delicious Cookies can strengthen its market position, improve product profitability, and expand its reach in both profitable and underperforming regions.
 
